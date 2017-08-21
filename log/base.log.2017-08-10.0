@@ -1,0 +1,14 @@
+2017-08-10 19:28:34,085 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 11748 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-08-10 19:28:34,088 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-10 19:28:34,088 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-10 19:28:35,998 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.092 seconds (JVM running for 2.415)
+2017-08-10 19:30:23,658 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 31852 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-08-10 19:30:23,659 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-10 19:30:23,660 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-10 19:30:25,531 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.062 seconds (JVM running for 2.398)
+2017-08-10 19:33:28,723 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 40920 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-08-10 19:33:28,726 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-10 19:33:28,727 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-10 19:33:30,258 INFO (TestFilter.java:25)- init TestFilter.init
+2017-08-10 19:33:31,197 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.692 seconds (JVM running for 3.097)
+2017-08-10 19:33:52,641 INFO (TestFilter.java:32)- doFilter TestFilter.doFilter

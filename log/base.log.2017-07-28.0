@@ -1,0 +1,54 @@
+2017-07-28 15:04:31,291 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 33804 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 15:04:31,295 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 15:04:31,295 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 15:04:33,685 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.595 seconds (JVM running for 2.984)
+2017-07-28 15:04:50,531 DEBUG (HellowController.java:17)- Visit Hellow！
+2017-07-28 15:05:15,562 DEBUG (HellowController.java:29)- Visit hi!
+2017-07-28 15:06:07,485 DEBUG (StringRedisController.java:33)- 访问get:key=ml
+2017-07-28 15:06:29,379 DEBUG (StringRedisController.java:26)- 访问set:key=ml,value=mao
+2017-07-28 15:06:36,535 DEBUG (StringRedisController.java:33)- 访问get:key=ml
+2017-07-28 15:39:47,118 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 32256 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 15:39:47,121 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 15:39:47,121 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 15:42:48,067 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 26788 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 15:42:48,070 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 15:42:48,070 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 15:44:22,507 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 37856 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 15:44:22,510 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 15:44:22,511 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 15:46:39,668 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 36480 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 15:46:39,672 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 15:46:39,672 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 15:46:42,059 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.587 seconds (JVM running for 2.979)
+2017-07-28 15:59:20,667 DEBUG (StringRedisController.java:34)- 访问get:key=ml
+2017-07-28 15:59:23,607 DEBUG (StringRedisController.java:34)- 访问get:key=mll
+2017-07-28 16:00:35,980 DEBUG (ObjectRedisController.java:23)- 访问setPerson:id=mll,name=maol,age=12
+2017-07-28 16:14:00,618 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 37580 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 16:14:00,622 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 16:14:00,622 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 16:19:03,163 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 36860 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 16:19:03,164 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 16:19:03,165 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 16:21:06,428 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 34784 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 16:21:06,431 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 16:21:06,431 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 16:25:34,050 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 23260 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 16:25:34,054 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 16:25:34,054 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 16:52:14,171 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 35964 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 16:52:14,173 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 16:52:14,173 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 16:52:16,066 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.081 seconds (JVM running for 2.416)
+2017-07-28 16:53:12,116 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 32440 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 16:53:12,118 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 16:53:12,118 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 16:53:13,988 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.049 seconds (JVM running for 2.382)
+2017-07-28 16:55:11,116 DEBUG (HellowController.java:23)- Visit hello!
+2017-07-28 16:56:03,073 DEBUG (HellowController.java:23)- Visit hello!
+2017-07-28 17:05:38,040 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 37088 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-07-28 17:05:38,041 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-07-28 17:05:38,042 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-07-28 17:05:40,096 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.24 seconds (JVM running for 2.572)
+2017-07-28 17:06:06,800 DEBUG (HellowController.java:23)- Visit hello!
+2017-07-28 17:08:11,757 DEBUG (HellowController.java:23)- Visit hello!
+2017-07-28 17:15:05,497 DEBUG (HellowController.java:17)- Visit Hellow！

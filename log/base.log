@@ -1,0 +1,8 @@
+2017-08-15 11:08:25,918 INFO (StartupInfoLogger.java:48)- Starting SpringBootSampleRedisApplication on MaoL-PC with PID 8820 (D:\maolong\DEV\demo\spring-boot-sample-redis\target\classes started by Lee in D:\maolong\DEV\demo\spring-boot-sample-redis)
+2017-08-15 11:08:25,925 DEBUG (StartupInfoLogger.java:51)- Running with Spring Boot v1.5.6.RELEASE, Spring v4.3.10.RELEASE
+2017-08-15 11:08:25,925 INFO (SpringApplication.java:593)- No active profile set, falling back to default profiles: default
+2017-08-15 11:08:27,623 INFO (TestFilter.java:26)- init TestFilter.init
+2017-08-15 11:08:28,651 INFO (StartupInfoLogger.java:57)- Started SpringBootSampleRedisApplication in 2.955 seconds (JVM running for 3.375)
+2017-08-15 11:09:42,581 INFO (TestFilter.java:33)- doFilter TestFilter.doFilter
+2017-08-15 11:09:42,634 INFO (TestFilter.java:33)- doFilter TestFilter.doFilter
+2017-08-15 11:11:13,762 INFO (TestFilter.java:33)- doFilter TestFilter.doFilter
